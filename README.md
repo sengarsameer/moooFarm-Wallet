@@ -1,5 +1,5 @@
 # moooFarm Wallet
-A moooFarm wallet service where moooFarm user avail the service.
+A dummy moooFarm wallet service where moooFarm user avail the service.
 
 ### Install this app locally
 * Go at desire path in your terminal
