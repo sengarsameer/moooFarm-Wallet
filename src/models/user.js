@@ -43,6 +43,7 @@ const userSchema = new mongoose.Schema({
     timestamps: true
 })
 
+// populating virtuals
 userSchema.virtual('wallets', {
     ref: 'Wallet',
     localField: '_id',

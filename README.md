@@ -9,3 +9,6 @@ A moooFarm wallet service where moooFarm user avail the service.
 * Production server run: npm run start
 * Development server run: npm run dev
 * Testing server run: npm test
+
+## APIs Description
+All the apis, business and controller logic in routers folder. In the middleware folder define authentication.
